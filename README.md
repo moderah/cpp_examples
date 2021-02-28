@@ -1,10 +1,10 @@
 # cpp_examples
 Here are some examples of useful classic C++ solutions. As useful as these have been for me, I would like to extend to you the efforts of yours truly. 
 
-##### `"Truly a full scale professional level C++ example."`
+###### `"Truly a full scale professional level C++ example."`
 
-## UPDATE:
-### As of 02/28/21
+### UPDATE:
+##### As of 02/28/21
 
 * I plan on updating and adding to this indefinitely. I dont use C++ as much as I used to so, it might be a long road ahead but it will get done and be helpful.
 

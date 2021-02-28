@@ -1,7 +1,9 @@
 # cpp_examples
-all of my cpp examples and boilerplates I've made over the years
+Here are some examples of useful classic C++ solutions. As useful as these have been for me, I would like to extend to you the efforts of yours truly. 
 
-#UPDATE:
+##### `"Truly a full scale professional level C++ example."`
+
+## UPDATE:
 
 * I plan on updating and adding to this indefinitely. I dont use C++ as much as I used to so, it might be a long road ahead but it will get done and be helpful.
 
@@ -11,3 +13,58 @@ all of my cpp examples and boilerplates I've made over the years
 
 * if you have any requests, feel free to comment or contact me. (email is in profile)
 
+
+## What is this?
+
+#### 1. It is a helpful tool that will get progressively get better.
+  #####*This week:
+  `axios.request(url,(req,res)=>{if(res.status == 200){console.log(res.data)}//setdata}).then(res => {res}).finally()`
+
+# in.the.future
+
+#### here is a little example of what is to come.
+(I can definitely express what I'm trying to do with example code)
+
+```
+  //first we define the main function
+  int main(int argc, char* argv[]){
+    if(argc){
+      //handle argc
+      //check out argv[]
+    }
+    
+    //**endless loop to break upon desired result**//
+    while(true){
+      
+      //choose what input and file type data should be brought in through
+      //    -read in data
+      //    -evaluate -manipulate
+      //    -categorize -sort
+      
+      //choose what to do with data
+      //    -neural network
+      //    -machine learning
+      //    -data mapping
+      //    -data science
+      //    -...etc
+      //...then do it.
+      
+      //record data and mapping of all memory transactions
+      //    -output data to file
+      //    -feed data to other system/program/network
+      //    -live feed of data updates
+      
+      //create complete website with C++
+      
+      //serve it with NODE, NGINX, LINUX-UBUNTU with digitalOcean
+      
+      //display live feed of progress of the neural network learning, and becoming more accurate.
+      
+      //display several algorithms side-by-side on a live feed of the time complexity, and several data
+      //aspects that can and will be implemented. (this will not be public at first. you will have to
+      //subscribe)
+     
+    }
+  }
+
+```

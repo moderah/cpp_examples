@@ -48,11 +48,7 @@ It currently includes:
   - `advanced C++ concepts` 
   - `up for suggestions`
   
-  ##### *Next week:
-  
-  ` `
-
-# in.the.future
+# [in.the.future]
 
 #### here is a little example of what is to come.
 (I can definitely express what I'm trying to do with example code)

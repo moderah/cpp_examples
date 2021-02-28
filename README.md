@@ -48,7 +48,7 @@ It currently includes:
   - `advanced C++ concepts` 
   - `up for suggestions`
   
-# [in.the.future]
+# Future Endeavors
 
 #### here is a little example of what is to come.
 (I can definitely express what I'm trying to do with example code)
